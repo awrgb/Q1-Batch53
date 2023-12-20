@@ -9,7 +9,7 @@ var Color;
     Color[Color["Red"] = 2] = "Red";
     Color["Green"] = "TS";
     Color[Color["Blue"] = 55] = "Blue";
-})(Color || (Color = {}));
+})(Color || (Color = {})); 
 ; //starts with 0
 var c = Color.Green;
 console.log(c);
