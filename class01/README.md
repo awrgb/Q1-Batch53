@@ -3,7 +3,7 @@
 * https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit#slide=id.p
 
 ### Typescript Installation:
-* Install Node.js from https://nodejs.org/ 
+* Install Node.js from https://nodejs.org/  
 * Nodejs intallation tutorial - https://www.youtube.com/watch?v=__7eOCxJyow&ab_channel=ProgrammingKnowledge2
 * TypeScript installation guide for windows, macOS, Linux users - https://www.typescriptlang.org/#download-links 
 * TypeScript installation tutorial - https://www.youtube.com/watch?v=kvm8tsRj6BM&ab_channel=HiteshChoudhary
